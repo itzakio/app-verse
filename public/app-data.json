@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/Wpf96d3G/Productivity-pro.jpg",
+    "title": "Productivity Pro",
+    "companyName": "FocusWare Inc.",
+    "description": "Productivity Pro is a complete solution designed for modern professionals who struggle with managing time and focus in a fast-paced world. It helps users plan their days with smart scheduling, AI-based priority sorting, and deep work sessions that minimize distractions. The app features an intelligent notification system that nudges you only when truly necessary, allowing you to maintain long stretches of productive work. \n\nIn addition to daily task management, Productivity Pro comes with built-in performance analytics, goal-tracking modules, and project segmentation for teams and individuals. You can visualize your week, monitor progress through insightful charts, and collaborate seamlessly with teammates through shared boards and reminders. The interface is sleek, minimal, and distraction-free — ideal for those who want a clean workspace that encourages deep focus.",
+    "size": 48,
+    "reviews": 3200,
+    "ratingAvg": 4.6,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 460 },
+      { "name": "4 star", "count": 980 },
+      { "name": "5 star", "count": 1410 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/8DP9SsjV/Photo-Genius.jpg",
+    "title": "Photo Genius",
+    "companyName": "Snapify Labs",
+    "description": "Photo Genius transforms everyday snapshots into professional-grade images through the power of AI. It offers one-tap enhancement, intelligent retouching, and background removal that feels effortless yet precise. The app understands facial features, lighting, and composition — automatically applying edits that elevate your photos instantly. Whether you’re a content creator, photographer, or casual user, Photo Genius helps you achieve stunning visuals in seconds. \n\nBeyond automatic editing, it also provides advanced tools such as gradient overlays, tone curves, and selective adjustments for users who want full creative control. The app includes pre-built style templates for social media, portrait photography, and product images. With cloud sync and batch editing, Photo Genius becomes your go-to creative suite for building a consistent visual identity.",
+    "size": 62,
+    "reviews": 8900,
+    "ratingAvg": 4.8,
+    "downloads": 2750000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 720 },
+      { "name": "4 star", "count": 1980 },
+      { "name": "5 star", "count": 5480 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/bM5KDvHY/FitTrack.jpg",
+    "title": "FitTrack",
+    "companyName": "HealthSync Co.",
+    "description": "FitTrack is more than just a fitness tracker — it’s your personal health assistant. Using AI insights, it records steps, calories, heart rate, and sleep cycles, presenting them through intuitive visuals that help you understand your body better. It also offers daily workout recommendations based on your current fitness level and recovery status. Each suggestion adapts over time, helping you avoid burnout while staying consistent with your goals. \n\nFitTrack’s integrated nutrition tracker lets you log meals and receive smart suggestions to meet calorie or macro targets. Its progress dashboard provides long-term trends and weekly achievements, helping you celebrate milestones and build motivation. Designed for fitness enthusiasts and beginners alike, FitTrack syncs seamlessly with wearables like Fitbit, Apple Watch, and Google Fit.",
+    "size": 80,
+    "reviews": 5600,
+    "ratingAvg": 4.4,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 2020 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/qLnGrX6T/Music-Mate.jpg",
+    "title": "MusicMate",
+    "companyName": "WaveSound Studios",
+    "description": "MusicMate revolutionizes how you listen to music by learning your taste and creating playlists that evolve with your mood. The app analyzes your listening patterns, activity level, and even time of day to recommend tracks you’ll love. It offers a massive catalog across all genres, from indie gems to chart-toppers, all delivered in high-fidelity sound quality. \n\nThe interface blends minimalism with visual rhythm — animated covers, synchronized lyrics, and smooth transitions give your listening a cinematic experience. Offline mode, social sharing, and collaborative playlists make it a great choice for solo sessions or group hangouts. MusicMate’s adaptive sound engine ensures that every note sounds crisp, whether you’re using wired headphones or wireless buds.",
+    "size": 120,
+    "reviews": 10200,
+    "ratingAvg": 4.7,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 2280 },
+      { "name": "5 star", "count": 6140 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/8gqhVB3j/Finance-Guru.jpg",
+    "title": "Finance Guru",
+    "companyName": "SmartMoney Apps",
+    "description": "Finance Guru empowers users to take full control of their finances through smart automation and visual clarity. The app connects securely with your bank accounts, categorizes spending in real-time, and offers intelligent budget suggestions. It helps you discover spending leaks, optimize subscriptions, and set achievable savings goals. \n\nThrough interactive charts and weekly summaries, you’ll get a clear picture of where your money goes. Finance Guru also provides credit score tracking, bill reminders, and tax estimation — turning complex financial management into an easy daily habit. For small business owners, the app even includes invoice tracking and simple accounting tools, all within one dashboard.",
+    "size": 55,
+    "reviews": 7800,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 470 },
+      { "name": "3 star", "count": 960 },
+      { "name": "4 star", "count": 2040 },
+      { "name": "5 star", "count": 4020 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/qFjM8yt2/StudyHub.jpg",
+    "title": "StudyHub",
+    "companyName": "Eduverse",
+    "description": "StudyHub is designed for learners who value structure, collaboration, and adaptive learning. It combines note-taking, flashcards, and quiz modules into a single workspace. With AI-powered summaries and spaced repetition, StudyHub helps you retain information more efficiently. You can create study groups, share resources, and track performance metrics together. \n\nIt supports handwritten notes, cloud sync, and offline access for studying anywhere. Integrated task lists and goal reminders ensure you never miss a deadline. StudyHub adapts to every academic level, from high school revision to university research, making it a one-stop platform for mastering any subject.",
+    "size": 70,
+    "reviews": 6400,
+    "ratingAvg": 4.6,
+    "downloads": 1450000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 820 },
+      { "name": "4 star", "count": 1840 },
+      { "name": "5 star", "count": 3180 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/0VfBy1Cc/Travelio.jpg",
+    "title": "Travelio",
+    "companyName": "VoyageWorks",
+    "description": "Travelio takes the stress out of trip planning by combining flight search, hotel booking, and itinerary management in one elegant interface. Discover trending destinations, hidden gems, and exclusive local experiences curated by real travelers. Its AI assistant helps you compare routes, find visa requirements, and manage travel documents in-app. \n\nWith offline maps, weather forecasts, and currency conversion built in, Travelio becomes your all-in-one travel buddy. Share trips with friends, split costs, and get real-time updates on delays or changes. Whether you're traveling solo or planning a group adventure, Travelio keeps everything organized and exciting.",
+    "size": 95,
+    "reviews": 9100,
+    "ratingAvg": 4.7,
+    "downloads": 2600000,
+    "ratings": [
+      { "name": "1 star", "count": 340 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2180 },
+      { "name": "5 star", "count": 5260 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/gMD5wPmq/Secure-Vault.jpg",
+    "title": "SecureVault",
+    "companyName": "CyberSafe Ltd.",
+    "description": "SecureVault ensures your digital privacy with military-grade encryption and biometric authentication. Store passwords, notes, and sensitive files securely, with zero-knowledge architecture ensuring that not even the company can access your data. It’s perfect for professionals handling confidential information or individuals who value peace of mind. \n\nWith dark mode, offline mode, and secure sharing links, you can access your vault anywhere. SecureVault automatically audits weak passwords and suggests stronger ones. Integration with browsers and devices makes password management effortless. Whether for personal use or team-based credential sharing, it’s built for uncompromising safety.",
+    "size": 40,
+    "reviews": 4700,
+    "ratingAvg": 4.3,
+    "downloads": 980000,
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 1460 },
+      { "name": "5 star", "count": 1680 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/hJQtynhs/Langify.jpg",
+    "title": "Langify",
+    "companyName": "Polyglot Apps",
+    "description": "Langify transforms the way you learn languages by blending AI lessons, real-time pronunciation feedback, and gamified progress tracking. Each module adapts to your skill level, focusing on vocabulary, grammar, and conversation. Interactive challenges and daily goals keep learners engaged and motivated. \n\nIt features dialogue simulations with native accents, culture notes, and offline lessons for on-the-go learning. The app also connects you with a global community of learners and native speakers, creating a friendly environment for practice. Whether for travel, study, or career advancement, Langify makes language learning fun and personalized.",
+    "size": 85,
+    "reviews": 5300,
+    "ratingAvg": 4.4,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 960 },
+      { "name": "4 star", "count": 1760 },
+      { "name": "5 star", "count": 1920 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/C5WNyrbt/GameHub.jpg",
+    "title": "GameHub",
+    "companyName": "PixelPlay Studios",
+    "description": "GameHub is the central hub for gamers worldwide. It aggregates game news, updates, and community discussions into one place. Track your gameplay stats across platforms, compare leaderboards, and earn rewards for completing achievements. \n\nGameHub’s social layer lets you follow streamers, chat in live forums, and join gaming communities based on interests. It integrates seamlessly with Steam, Xbox, PlayStation, and PC, syncing achievements and hours played. With GameHub, you’ll never miss a release, update, or esports event again.",
+    "size": 150,
+    "reviews": 11000,
+    "ratingAvg": 4.8,
+    "downloads": 3400000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 920 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 6990 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/F4xSwFQv/Cook-Master.jpg",
+    "title": "CookMaster",
+    "companyName": "ChefTech",
+    "description": "CookMaster makes cooking exciting and effortless by giving you access to thousands of chef-approved recipes. Each recipe includes step-by-step guidance, voice narration, and nutritional breakdowns. You can filter meals by ingredients, diet type, or cooking time. \n\nThe built-in grocery planner automatically organizes shopping lists, while meal scheduling ensures balanced weekly menus. CookMaster even features AI-driven substitutions, helping you improvise when ingredients are missing. Whether you’re learning to cook or refining culinary skills, CookMaster turns your kitchen into a creative lab.",
+    "size": 65,
+    "reviews": 3900,
+    "ratingAvg": 4.5,
+    "downloads": 860000,
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 640 },
+      { "name": "4 star", "count": 1180 },
+      { "name": "5 star", "count": 1630 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/zTZgqQkc/Book-Space.jpg",
+    "title": "BookSpace",
+    "companyName": "Readify",
+    "description": "BookSpace brings your personal library to life with eBooks, audiobooks, and curated reading lists. Its AI engine learns your preferences and recommends stories across fiction, non-fiction, and academic genres. You can switch seamlessly between reading and listening, bookmark quotes, and highlight notes for later. \n\nThe app offers dark mode, offline reading, and sync across devices. With community reviews, author interviews, and reading challenges, BookSpace transforms reading into an interactive journey. Perfect for bookworms, students, and lifelong learners alike.",
+    "size": 90,
+    "reviews": 7200,
+    "ratingAvg": 4.6,
+    "downloads": 1950000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3690 }
+    ]
+  }
+]

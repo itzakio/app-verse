@@ -12,7 +12,7 @@ const Navbar = () => {
   );
   return (
     <div>
-      <nav className="navbar px-10 max-w-[1536px] mx-auto">
+      <nav className="navbar px-4 md:px-6 lg:px-10 max-w-[1440px] mx-auto">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -34,7 +34,7 @@ const Navbar = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 font-semibold"
+              className="menu menu-xm space-y-3 text-base dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 font-semibold"
             >
               {links}
             </ul>
@@ -45,7 +45,7 @@ const Navbar = () => {
           <ul className="menu menu-horizontal px-1 space-x-5 font-semibold">{links}</ul>
         </div>
         <div className="navbar-end">
-          <a href="https://github.com/itzakio" target="_blank" className="btn bg-linear-to-r from-violet-600 to-violet-500  text-white"><FaGithub /> Contribute</a>
+          <a href="https://github.com/itzakio" target="_blank" className="btn bg-linear-to-r from-violet-600 to-violet-400  text-white"><FaGithub /> Contribute</a>
         </div>
       </nav>
     </div>

@@ -5,9 +5,9 @@ import { FaGithub } from "react-icons/fa";
 const Navbar = () => {
   const links = (
     <>
-        <NavLink to="/">Home</NavLink>
-        <NavLink to="/apps">Apps</NavLink>
-        <NavLink to="/installation">Installation</NavLink>
+        <NavLink className="py-0.5" to="/">Home</NavLink>
+        <NavLink className="py-0.5" to="/apps">Apps</NavLink>
+        <NavLink className="py-0.5" to="/installation">Installation</NavLink>
     </>
   );
   return (

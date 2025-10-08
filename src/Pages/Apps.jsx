@@ -19,7 +19,7 @@ const Apps = () => {
         Explore All Apps on the Market developed by us. We code for Millions
       </p>
 
-      <div className="mt-10 flex justify-between items-center">
+      <div className="mt-10 flex flex-col lg:flex-row gap-5 justify-between items-center">
         <p className="text-2xl font-semibold">({searchedApp.length}) Apps Found</p>
 
         <label className="input">
@@ -39,7 +39,7 @@ const Apps = () => {
               <path d="m21 21-4.3-4.3"></path>
             </g>
           </svg>
-          <input value={search} onChange={(e)=>setSearch(e.target.value)} type="search" required placeholder="Search" />
+          <input value={search} onChange={(e)=>setSearch(e.target.value)} type="search" required placeholder="Search app" />
         </label>
       </div>
 

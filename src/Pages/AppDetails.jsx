@@ -6,6 +6,7 @@ import downloadIcon from "../assets/icon-downloads.png";
 import ratingsIcon from "../assets/icon-ratings.png";
 import reviewIcon from "../assets/icon-review.png";
 import AppBarChart from "../Components/AppBarChart";
+import AppNotFound from "../Components/Error/AppNotFound";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -13,7 +14,7 @@ const AppDetails = () => {
   const appDetails = apps.find((app) => app.id === Number(id));
 
   if (loading) return <p className="text-center my-10">Loading...</p>;
-  if (!appDetails) return <p className="text-center my-10">No app found.</p>;
+  if (!appDetails) return <AppNotFound/>;
 
   const {
     title,

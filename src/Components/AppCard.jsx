@@ -7,7 +7,7 @@ const AppCard = ({ app }) => {
   const {id, title, ratingAvg, image, downloads } = app;
   return (
     <Link to={`/app-details/${id}`} className="bg-white space-y-2 rounded-lg overflow-hidden p-4">
-      <img className="border rounded-lg" src={image} alt="" />
+      <img className="border rounded-lg w-full" src={image} alt="" />
       <h4 className="font-semibold text-xl">{title}</h4>
       <div className="flex justify-between items-center">
         <p className="px-3 py-1 bg-gray-100 rounded font-medium text-green-500 flex gap-2 items-center"><FiDownload /> {millify(downloads, { precision: 1 })}</p>

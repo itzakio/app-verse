@@ -19,14 +19,19 @@ const Banner = () => {
             At AppVerse, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.
         </p>
         <div className="flex justify-center gap-4 items-center my-10">
-            <button className="btn w-40">
+            <a href="https://play.google.com/store/apps?hl=en" target="_blank">
+              <button className="btn w-40">
                 <img className="w-5" src={playStore} alt="" />
                 <span>Google Play</span>
                 </button>
-            <button className="btn w-40">
+            </a>
+            <a href="https://apps.apple.com/bj/developer/apple/id284417353?mt=12" target="_blank">
+              <button className="btn w-40">
                 <img className="w-5" src={appStore} alt="" />
                 <span>App Store</span>
                 </button>
+            </a>
+            
         </div>
         <img src={heroImg} alt="" />
         </div>

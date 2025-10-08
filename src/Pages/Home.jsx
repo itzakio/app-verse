@@ -7,9 +7,11 @@ import { Link } from "react-router";
 const Home = () => {
   const { apps, loading, error } = useApps();
   const trendingApps = apps.slice(0, 8);
+
+  if (loading) return <p className="text-center my-10">Loading...</p>;
+
   return (
     <div>
-      {loading && <h1>Loading...</h1>}
       <Banner />
 
       <div className="mt-5 md:mt-10 lg:mt-16 xl:mt-20 max-w-[1440px] mx-auto">

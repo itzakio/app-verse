@@ -30,10 +30,14 @@ const Banner = () => {
         </div>
         <img src={heroImg} alt="" />
         </div>
-        <div className="py-5 md:py-10 lg:py-16 xl:py-20 text-center text-white bg-linear-to-r from-violet-600 to-violet-400">
+
+        
+
+      </div>
+      <div className="py-5 md:py-10 lg:py-16 xl:py-20 text-center text-white bg-linear-to-r from-violet-600 to-violet-400">
             <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold">Trusted by Millions, Built for You</h2>
 
-            <div className="mt-10 grid grid-cols-1 lg:grid-cols-3 gap-10 md:gap-15 lg:gap-20 justify-center items-center">
+            <div className="mt-10 grid grid-cols-1 lg:grid-cols-3 gap-10 md:gap-15 lg:gap-20 justify-center items-center max-w-4xl mx-auto">
                 <div className="space-y-2">
                     <p className="text-gray-300">Total Downloads</p>
                     <h4 className="text-6xl font-extrabold">29.6M</h4>
@@ -55,7 +59,6 @@ const Banner = () => {
             </div>
 
         </div>
-      </div>
     </div>
   );
 };

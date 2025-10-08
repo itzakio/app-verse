@@ -7,9 +7,6 @@ const RootLayout = () => {
     <div className="flex flex-col min-h-screen">
       <Navbar />
       <main className="flex-1 bg-gray-200" >
-        {
-          navigation.state === "loading" && <h1>Loading...</h1>
-        }
         <Outlet />
       </main>
       <Footer />

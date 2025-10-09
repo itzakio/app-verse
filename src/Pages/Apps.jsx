@@ -1,14 +1,37 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import useApps from "../Hooks/useApps";
 import AppCard from "../Components/AppCard";
 import NoAppFound from "../Components/Error/NoAppFound";
+import LoadingSpinner from "../Components/LoadingSpinner";
 
 const Apps = () => {
   const { apps, loading, error } = useApps();
   const [search, setSearch] = useState("")
-  const term = search.trim().toLocaleLowerCase()
+  const [searchedApp, setSearchedApp] = useState([]);
+  const [searchLoading, setSearchLoading] = useState(false);
 
-  const searchedApp = term?apps.filter(app => app.title.toLocaleLowerCase().includes(term)):apps;
+  useEffect(()=>{
+    if (!apps.length) return;
+
+    setSearchLoading(true)
+
+    const timer = setTimeout(() => {
+      const term = search.trim().toLocaleLowerCase()
+      if (term) {
+        const filteredApps = apps.filter(app =>
+          app.title.toLowerCase().includes(term)
+        );
+        setSearchedApp(filteredApps)
+      }else{
+        setSearchedApp(apps)
+      }
+      setSearchLoading(false)}, 500);
+
+      return ()=> clearTimeout(timer)
+
+  },[search, apps])
+
+  
 
   return (
     <div className="mt-5 md:mt-10 lg:mt-16 xl:mt-20 max-w-[1440px] mx-auto">
@@ -45,14 +68,19 @@ const Apps = () => {
 
 
       {
-        loading?<h1>Loading</h1>:
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 my-10 px-4 xl:px-0">
+        loading?(
+          <LoadingSpinner/>
+        ):searchLoading?(
+          <LoadingSpinner/>
+        ):(
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 my-10 px-4 xl:px-0">
         {searchedApp.length === 0?
         <NoAppFound setSearch={setSearch}/>:
         searchedApp.map((app) => (
           <AppCard key={app.id} app={app} />
         ))}
       </div>
+        )
       }
 
     </div>

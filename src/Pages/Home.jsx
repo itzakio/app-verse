@@ -3,6 +3,7 @@ import Banner from "../Components/Banner";
 import useApps from "../Hooks/useApps";
 import AppCard from "../Components/AppCard";
 import { Link } from "react-router";
+import LoadingSpinner from "../Components/LoadingSpinner";
 
 const Home = () => {
   const { apps, loading, error } = useApps();
@@ -23,9 +24,15 @@ const Home = () => {
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 my-10 px-4 xl:px-0">
-          {trendingApps.map((app) => (
+          {
+            loading?(
+              <LoadingSpinner/>
+            ):(
+              trendingApps.map((app) => (
             <AppCard key={app.id} app={app} />
-          ))}
+          ))
+            )
+          }
         </div>
       </div>
 

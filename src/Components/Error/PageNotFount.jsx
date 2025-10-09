@@ -4,8 +4,8 @@ import { Link } from 'react-router';
 
 const PageNotFount = () => {
     return (
-        <div className='h-screen flex flex-col justify-center items-center text-center gap-5'>
-            <img className='w-1/4' src={errorImg} alt="" />
+        <div className='h-screen px-4 flex flex-col justify-center items-center text-center gap-5'>
+            <img className='w-1/3' src={errorImg} alt="" />
 
             <div className='space-y-2'>
                 <h2 className='text-4xl font-semibold'>Oops, page not found!</h2>

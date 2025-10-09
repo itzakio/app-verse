@@ -23,3 +23,5 @@ AppVerse is a modern web application that allows users to explore, install, and 
 - Styling: CSS / Tailwind CSS
 - Routing: React Router
 - Optional: Libraries for UI components (daisyUI, React Icon, millify, React Hot Toast)
+
+Live Link: https://app-verse-byakio.netlify.app/

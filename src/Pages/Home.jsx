@@ -9,7 +9,7 @@ const Home = () => {
   const { apps, loading, error } = useApps();
   const trendingApps = apps.slice(0, 8);
 
-  if (loading) return <p className="text-center my-10">Loading...</p>;
+  if (loading) return <LoadingSpinner/>;
 
   return (
     <div>

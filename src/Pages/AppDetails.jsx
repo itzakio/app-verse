@@ -9,6 +9,7 @@ import AppBarChart from "../Components/AppBarChart";
 import AppNotFound from "../Components/Error/AppNotFound";
 import { loadApps, updateAppList } from "../Utility/LocalStoreage";
 import toast from "react-hot-toast";
+import LoadingSpinner from "../Components/LoadingSpinner";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -23,7 +24,7 @@ const AppDetails = () => {
     setIsInstalled(alreadyInstalled);
   }, [id]);
 
-  if (loading) return <p className="text-center my-10">Loading...</p>;
+  if (loading) return <LoadingSpinner/>;
   if (!appDetails) return <AppNotFound />;
 
   const {

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import useApps from "../Hooks/useApps";
 import millify from "millify";
@@ -7,14 +7,23 @@ import ratingsIcon from "../assets/icon-ratings.png";
 import reviewIcon from "../assets/icon-review.png";
 import AppBarChart from "../Components/AppBarChart";
 import AppNotFound from "../Components/Error/AppNotFound";
+import { loadApps, updateAppList } from "../Utility/LocalStoreage";
 
 const AppDetails = () => {
   const { id } = useParams();
   const { apps, loading, error } = useApps();
   const appDetails = apps.find((app) => app.id === Number(id));
 
+  const [isInstalled, setIsInstalled] = useState(false);
+
+  useEffect(() => {
+    const installedApps = loadApps();
+    const alreadyInstalled = installedApps.some((app) => app.id === Number(id));
+    setIsInstalled(alreadyInstalled);
+  }, [id]);
+
   if (loading) return <p className="text-center my-10">Loading...</p>;
-  if (!appDetails) return <AppNotFound/>;
+  if (!appDetails) return <AppNotFound />;
 
   const {
     title,
@@ -27,6 +36,14 @@ const AppDetails = () => {
     description,
     companyName,
   } = appDetails;
+
+
+  const installedHandler = () =>{
+    alert("app Installed")
+    updateAppList(appDetails)
+    setIsInstalled(true);
+  }
+
   return (
     <div className="max-w-[1440px] mx-auto my-20">
       {/* top section */}
@@ -67,15 +84,19 @@ const AppDetails = () => {
             </div>
           </div>
 
-          <button className="btn w-fit mx-auto lg:mx-0 bg-green-500 text-white">
-            Install Now ({size} MB)
+          <button
+            disabled={isInstalled}
+            onClick={()=>installedHandler()}
+            className={`btn w-fit mx-auto lg:mx-0 transition-all duration-100  ${isInstalled?"bg-gray-400 text-gray-600 cursor-not-allowed":"bg-green-500 text-white hover:bg-green-600"}`}
+          >
+             {isInstalled ? "Installed" : `Install Now (${size} MB)`}
           </button>
         </div>
       </div>
       <hr className="w-full my-10 text-gray-400" />
 
       {/* rating section */}
-      <AppBarChart ratings={ratings}/>
+      <AppBarChart ratings={ratings} />
 
       <hr className="w-full my-10 text-gray-400" />
 

@@ -8,6 +8,7 @@ import reviewIcon from "../assets/icon-review.png";
 import AppBarChart from "../Components/AppBarChart";
 import AppNotFound from "../Components/Error/AppNotFound";
 import { loadApps, updateAppList } from "../Utility/LocalStoreage";
+import toast from "react-hot-toast";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -39,7 +40,7 @@ const AppDetails = () => {
 
 
   const installedHandler = () =>{
-    alert("app Installed")
+    toast.success(`${title} Successfully Installed!`)
     updateAppList(appDetails)
     setIsInstalled(true);
   }

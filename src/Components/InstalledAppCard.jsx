@@ -1,5 +1,4 @@
 import millify from 'millify';
-import React from 'react';
 import { FaStar } from 'react-icons/fa';
 import { FiDownload } from 'react-icons/fi';
 

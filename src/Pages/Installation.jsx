@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import InstalledAppCard from "../Components/InstalledAppCard";
 import { uninstallApps } from "../Utility/LocalStoreage";
+import toast from "react-hot-toast";
+import NoAppInstalled from "../Components/Error/NoAppInstalled";
 
 const Installation = () => {
   const [sortOrder, setSortOrder] = useState("none");
@@ -26,7 +28,7 @@ const Installation = () => {
     uninstallApps(id);
 
     setAppList((prv) => prv.filter((p) => p.id !== id));
-    alert(`${title} Uninstall Suessfully`)
+    toast.success(`${title} Successfully Uninstalled!`)
   };
 
   return (
@@ -53,12 +55,13 @@ const Installation = () => {
       </div>
 
       <div className="my-10 space-y-4">
-        {sortedApps.map((app) => (
+        {sortedApps.length === 0? <NoAppInstalled/>:(
+        sortedApps.map((app) => (
           <InstalledAppCard
             key={app.id}
             app={app}
             uninstallHandler={uninstallHandler}
-          />
+          />)
         ))}
       </div>
     </div>

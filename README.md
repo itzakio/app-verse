@@ -1,16 +1,25 @@
-# React + Vite
+> ## **AppVerse** 
+- Logo : <br>
+<img src="./public/appverse-logo.png" alt="App Verse" style="width:150px;" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Description: 
+AppVerse is a modern web application that allows users to explore, install, and manage a wide variety of applications directly from their device. With an intuitive interface, users can browse trending apps on the home page. All apps contain in the app page, and easily track or uninstall apps from Myl installation page. All data is seamlessly stored in the browser using local storage.
 
-## React Compiler
+**Key Features:**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Browse trending and popular apps on the Home page.
+- Explore the full app catalog on the Apps page.
+- View installed apps and manage them on the My Installation page.
+- Install or uninstall apps with a single click.
+- Data persistence using browser local storage.
 
-## Expanding the ESLint configuration
+### Technologies: 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Frontend: React.js
+- State Management: React Hooks (useState, useEffect, CustomHooks)
+- Storage: Browser Local Storage (localStorage)
+- Styling: CSS / Tailwind CSS
+- Routing: React Router
+- Optional: Libraries for UI components (daisyUI, React Icon, millify, React Hot Toast)

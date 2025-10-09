@@ -16,16 +16,15 @@ const AppBarChart = ({ ratings }) => {
   }
 
   return (
-    <div style={{ width: "100%", height: 450 }}>
+    <div className="w-full h-[450px]">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart
           data={ratings}
-          layout="vertical" // makes bars horizontal
-          margin={{ top: 20, right: 30, left: 50, bottom: 20 }}
+          layout="vertical"
         >
           <CartesianGrid strokeDasharray="3 3" />
-          <XAxis type="number" />           {/* Value axis (left→right) */}
-          <YAxis type="category" dataKey="name" /> {/* Category axis */}
+          <XAxis type="number" />           
+          <YAxis type="category" dataKey="name" reversed/> 
           <Tooltip />
           <Legend />
           <Bar barSize={30} dataKey="count" fill="#82ca9d" />

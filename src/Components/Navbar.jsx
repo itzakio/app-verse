@@ -1,13 +1,15 @@
 import { Link, NavLink } from "react-router";
 import logoImg from '/appverse-logo.png'
 import { FaGithub } from "react-icons/fa";
+import { RiAppsLine, RiHome2Line } from "react-icons/ri";
+import { MdInstallDesktop } from "react-icons/md";
 
 const Navbar = () => {
   const links = (
     <>
-        <NavLink className="py-0.5" to="/">Home</NavLink>
-        <NavLink className="py-0.5" to="/apps">Apps</NavLink>
-        <NavLink className="py-0.5" to="/installation">Installation</NavLink>
+        <NavLink className="py-0.5 flex items-center gap-1" to="/"><RiHome2Line /><span>Home</span></NavLink>
+        <NavLink className="py-0.5 flex items-center gap-1" to="/apps"><RiAppsLine /><span>Apps</span></NavLink>
+        <NavLink className="py-0.5 flex items-center gap-1" to="/installation"><MdInstallDesktop /><span>My Installation</span></NavLink>
     </>
   );
   return (

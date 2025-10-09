@@ -1,190 +1,244 @@
 [
   {
     "id": 1,
-    "image": "https://i.ibb.co.com/Wpf96d3G/Productivity-pro.jpg",
-    "title": "Productivity Pro",
-    "companyName": "FocusWare Inc.",
-    "description": "Productivity Pro is a complete solution designed for modern professionals who struggle with managing time and focus in a fast-paced world. It helps users plan their days with smart scheduling, AI-based priority sorting, and deep work sessions that minimize distractions. The app features an intelligent notification system that nudges you only when truly necessary, allowing you to maintain long stretches of productive work. \n\nIn addition to daily task management, Productivity Pro comes with built-in performance analytics, goal-tracking modules, and project segmentation for teams and individuals. You can visualize your week, monitor progress through insightful charts, and collaborate seamlessly with teammates through shared boards and reminders. The interface is sleek, minimal, and distraction-free — ideal for those who want a clean workspace that encourages deep focus.",
-    "size": 48,
-    "reviews": 3200,
-    "ratingAvg": 4.6,
-    "downloads": 1250000,
+    "image": "https://i.postimg.cc/qgHqRkkD/FitMind.jpg",
+    "title": "FitMind",
+    "companyName": "WellBeing Co.",
+    "description": "FitMind is a holistic mental wellness app designed to help users achieve balance, reduce stress, and improve focus. It offers guided meditation sessions, cognitive exercises, mood tracking, and daily mindfulness challenges. The app’s AI-powered insights analyze your habits and suggest personalized routines to optimize mental health. FitMind also includes sleep stories, relaxation techniques, and community support groups to enhance emotional resilience. Whether you’re a busy professional, student, or anyone seeking mental clarity, FitMind provides practical tools to cultivate mindfulness, maintain positivity, and improve overall wellbeing.",
+    "size": 95,
+    "reviews": 4100,
+    "ratingAvg": 4.7,
+    "downloads": 1600000,
     "ratings": [
-      { "name": "1 star", "count": 120 },
+      { "name": "1 star", "count": 140 },
       { "name": "2 star", "count": 230 },
-      { "name": "3 star", "count": 460 },
-      { "name": "4 star", "count": 980 },
-      { "name": "5 star", "count": 1410 }
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 1780 }
     ]
   },
   {
     "id": 2,
-    "image": "https://i.ibb.co.com/8DP9SsjV/Photo-Genius.jpg",
-    "title": "Photo Genius",
-    "companyName": "Snapify Labs",
-    "description": "Photo Genius transforms everyday snapshots into professional-grade images through the power of AI. It offers one-tap enhancement, intelligent retouching, and background removal that feels effortless yet precise. The app understands facial features, lighting, and composition — automatically applying edits that elevate your photos instantly. Whether you’re a content creator, photographer, or casual user, Photo Genius helps you achieve stunning visuals in seconds. \n\nBeyond automatic editing, it also provides advanced tools such as gradient overlays, tone curves, and selective adjustments for users who want full creative control. The app includes pre-built style templates for social media, portrait photography, and product images. With cloud sync and batch editing, Photo Genius becomes your go-to creative suite for building a consistent visual identity.",
-    "size": 62,
-    "reviews": 8900,
-    "ratingAvg": 4.8,
-    "downloads": 2750000,
+    "image": "https://i.postimg.cc/F1XzR9rm/ShopEasy.jpg",
+    "title": "ShopEasy",
+    "companyName": "RetailPro",
+    "description": "ShopEasy is an all-in-one shopping platform designed to simplify online retail. Compare prices, read product reviews, and track your orders effortlessly. The app offers personalized recommendations, secure checkout, wishlists, and daily deals. With ShopEasy, you can manage your shopping experience seamlessly while staying updated on discounts, promotions, and new arrivals. Whether you’re buying essentials or exploring the latest trends, ShopEasy makes shopping convenient, engaging, and rewarding.",
+    "size": 100,
+    "reviews": 4600,
+    "ratingAvg": 4.6,
+    "downloads": 2100000,
     "ratings": [
-      { "name": "1 star", "count": 320 },
-      { "name": "2 star", "count": 410 },
-      { "name": "3 star", "count": 720 },
-      { "name": "4 star", "count": 1980 },
-      { "name": "5 star", "count": 5480 }
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 1970 }
     ]
   },
   {
     "id": 3,
-    "image": "https://i.ibb.co.com/bM5KDvHY/FitTrack.jpg",
-    "title": "FitTrack",
-    "companyName": "HealthSync Co.",
-    "description": "FitTrack is more than just a fitness tracker — it’s your personal health assistant. Using AI insights, it records steps, calories, heart rate, and sleep cycles, presenting them through intuitive visuals that help you understand your body better. It also offers daily workout recommendations based on your current fitness level and recovery status. Each suggestion adapts over time, helping you avoid burnout while staying consistent with your goals. \n\nFitTrack’s integrated nutrition tracker lets you log meals and receive smart suggestions to meet calorie or macro targets. Its progress dashboard provides long-term trends and weekly achievements, helping you celebrate milestones and build motivation. Designed for fitness enthusiasts and beginners alike, FitTrack syncs seamlessly with wearables like Fitbit, Apple Watch, and Google Fit.",
-    "size": 80,
-    "reviews": 5600,
-    "ratingAvg": 4.4,
-    "downloads": 1800000,
+    "image": "https://i.postimg.cc/nVCRbqCT/Weather-Now.jpg",
+    "title": "WeatherNow",
+    "companyName": "ClimateTech",
+    "description": "WeatherNow is a powerful weather app providing real-time forecasts, severe weather alerts, and interactive radar maps. Plan your day or week with confidence using accurate temperature, humidity, wind, and precipitation data. Customize notifications for specific locations and receive alerts for storms, heatwaves, or snow. The app combines precision, intuitive visuals, and timely updates, making WeatherNow an indispensable companion for anyone who wants to stay prepared and safe no matter where they are.",
+    "size": 50,
+    "reviews": 4200,
+    "ratingAvg": 4.5,
+    "downloads": 1700000,
     "ratings": [
-      { "name": "1 star", "count": 240 },
-      { "name": "2 star", "count": 460 },
-      { "name": "3 star", "count": 980 },
-      { "name": "4 star", "count": 1900 },
-      { "name": "5 star", "count": 2020 }
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 1730 }
     ]
   },
   {
     "id": 4,
-    "image": "https://i.ibb.co.com/qLnGrX6T/Music-Mate.jpg",
-    "title": "MusicMate",
-    "companyName": "WaveSound Studios",
-    "description": "MusicMate revolutionizes how you listen to music by learning your taste and creating playlists that evolve with your mood. The app analyzes your listening patterns, activity level, and even time of day to recommend tracks you’ll love. It offers a massive catalog across all genres, from indie gems to chart-toppers, all delivered in high-fidelity sound quality. \n\nThe interface blends minimalism with visual rhythm — animated covers, synchronized lyrics, and smooth transitions give your listening a cinematic experience. Offline mode, social sharing, and collaborative playlists make it a great choice for solo sessions or group hangouts. MusicMate’s adaptive sound engine ensures that every note sounds crisp, whether you’re using wired headphones or wireless buds.",
-    "size": 120,
-    "reviews": 10200,
-    "ratingAvg": 4.7,
-    "downloads": 3200000,
+    "image": "https://i.postimg.cc/tRYSQFY2/GameZone.jpg",
+    "title": "GameZone",
+    "companyName": "PlayHub",
+    "description": "GameZone is an all-in-one gaming hub offering a wide range of casual, competitive, and social games. Track your scores, compete with friends, and discover new games daily. GameZone features leaderboards, challenges, and in-game rewards to keep engagement high. The app’s intuitive interface, regular updates, and social features make gaming a fun, connected, and immersive experience for players of all ages and skill levels.",
+    "size": 140,
+    "reviews": 5800,
+    "ratingAvg": 4.6,
+    "downloads": 2800000,
     "ratings": [
-      { "name": "1 star", "count": 380 },
-      { "name": "2 star", "count": 520 },
-      { "name": "3 star", "count": 880 },
-      { "name": "4 star", "count": 2280 },
-      { "name": "5 star", "count": 6140 }
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 2450 }
     ]
   },
   {
     "id": 5,
-    "image": "https://i.ibb.co.com/8gqhVB3j/Finance-Guru.jpg",
-    "title": "Finance Guru",
-    "companyName": "SmartMoney Apps",
-    "description": "Finance Guru empowers users to take full control of their finances through smart automation and visual clarity. The app connects securely with your bank accounts, categorizes spending in real-time, and offers intelligent budget suggestions. It helps you discover spending leaks, optimize subscriptions, and set achievable savings goals. \n\nThrough interactive charts and weekly summaries, you’ll get a clear picture of where your money goes. Finance Guru also provides credit score tracking, bill reminders, and tax estimation — turning complex financial management into an easy daily habit. For small business owners, the app even includes invoice tracking and simple accounting tools, all within one dashboard.",
-    "size": 55,
-    "reviews": 7800,
-    "ratingAvg": 4.5,
-    "downloads": 2100000,
+    "image": "https://i.postimg.cc/wx7f8D19/News-Flash.jpg",
+    "title": "NewsFlash",
+    "companyName": "DailyBuzz",
+    "description": "NewsFlash is a comprehensive news platform that keeps you informed with breaking news, in-depth analysis, and personalized stories. Covering global events, local news, sports, entertainment, and technology, NewsFlash offers real-time updates and offline reading. Engage with multimedia content, participate in polls, and connect with other readers through comments and discussions. The app ensures you stay informed, critical, and up-to-date in an interactive, personalized experience.",
+    "size": 80,
+    "reviews": 3500,
+    "ratingAvg": 4.4,
+    "downloads": 1300000,
     "ratings": [
-      { "name": "1 star", "count": 310 },
-      { "name": "2 star", "count": 470 },
-      { "name": "3 star", "count": 960 },
-      { "name": "4 star", "count": 2040 },
-      { "name": "5 star", "count": 4020 }
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 1240 }
     ]
   },
   {
     "id": 6,
-    "image": "https://i.ibb.co.com/qFjM8yt2/StudyHub.jpg",
-    "title": "StudyHub",
-    "companyName": "Eduverse",
-    "description": "StudyHub is designed for learners who value structure, collaboration, and adaptive learning. It combines note-taking, flashcards, and quiz modules into a single workspace. With AI-powered summaries and spaced repetition, StudyHub helps you retain information more efficiently. You can create study groups, share resources, and track performance metrics together. \n\nIt supports handwritten notes, cloud sync, and offline access for studying anywhere. Integrated task lists and goal reminders ensure you never miss a deadline. StudyHub adapts to every academic level, from high school revision to university research, making it a one-stop platform for mastering any subject.",
-    "size": 70,
-    "reviews": 6400,
-    "ratingAvg": 4.6,
-    "downloads": 1450000,
-    "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 360 },
-      { "name": "3 star", "count": 820 },
-      { "name": "4 star", "count": 1840 },
-      { "name": "5 star", "count": 3180 }
-    ]
-  },
-  {
-    "id": 7,
-    "image": "https://i.ibb.co.com/0VfBy1Cc/Travelio.jpg",
-    "title": "Travelio",
-    "companyName": "VoyageWorks",
-    "description": "Travelio takes the stress out of trip planning by combining flight search, hotel booking, and itinerary management in one elegant interface. Discover trending destinations, hidden gems, and exclusive local experiences curated by real travelers. Its AI assistant helps you compare routes, find visa requirements, and manage travel documents in-app. \n\nWith offline maps, weather forecasts, and currency conversion built in, Travelio becomes your all-in-one travel buddy. Share trips with friends, split costs, and get real-time updates on delays or changes. Whether you're traveling solo or planning a group adventure, Travelio keeps everything organized and exciting.",
-    "size": 95,
-    "reviews": 9100,
+    "image": "https://i.postimg.cc/G3VMc9Dh/Mind-Relax.jpg",
+    "title": "MindRelax",
+    "companyName": "ZenLabs",
+    "description": "MindRelax is a meditation and mindfulness app designed to help users reduce stress and improve mental wellbeing. With guided meditations, breathing exercises, sleep stories, and mindfulness challenges, MindRelax adapts to your lifestyle. Track your progress, join community sessions, and discover personalized routines. The app integrates mental wellness into your daily routine, helping you cultivate focus, calmness, and emotional resilience while providing tools to enhance relaxation anytime, anywhere.",
+    "size": 60,
+    "reviews": 4100,
     "ratingAvg": 4.7,
-    "downloads": 2600000,
+    "downloads": 1400000,
     "ratings": [
-      { "name": "1 star", "count": 340 },
-      { "name": "2 star", "count": 420 },
-      { "name": "3 star", "count": 900 },
-      { "name": "4 star", "count": 2180 },
-      { "name": "5 star", "count": 5260 }
-    ]
-  },
-  {
-    "id": 8,
-    "image": "https://i.ibb.co.com/gMD5wPmq/Secure-Vault.jpg",
-    "title": "SecureVault",
-    "companyName": "CyberSafe Ltd.",
-    "description": "SecureVault ensures your digital privacy with military-grade encryption and biometric authentication. Store passwords, notes, and sensitive files securely, with zero-knowledge architecture ensuring that not even the company can access your data. It’s perfect for professionals handling confidential information or individuals who value peace of mind. \n\nWith dark mode, offline mode, and secure sharing links, you can access your vault anywhere. SecureVault automatically audits weak passwords and suggests stronger ones. Integration with browsers and devices makes password management effortless. Whether for personal use or team-based credential sharing, it’s built for uncompromising safety.",
-    "size": 40,
-    "reviews": 4700,
-    "ratingAvg": 4.3,
-    "downloads": 980000,
-    "ratings": [
-      { "name": "1 star", "count": 260 },
-      { "name": "2 star", "count": 420 },
-      { "name": "3 star", "count": 880 },
-      { "name": "4 star", "count": 1460 },
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1400 },
       { "name": "5 star", "count": 1680 }
     ]
   },
   {
-    "id": 9,
-    "image": "https://i.ibb.co.com/hJQtynhs/Langify.jpg",
-    "title": "Langify",
-    "companyName": "Polyglot Apps",
-    "description": "Langify transforms the way you learn languages by blending AI lessons, real-time pronunciation feedback, and gamified progress tracking. Each module adapts to your skill level, focusing on vocabulary, grammar, and conversation. Interactive challenges and daily goals keep learners engaged and motivated. \n\nIt features dialogue simulations with native accents, culture notes, and offline lessons for on-the-go learning. The app also connects you with a global community of learners and native speakers, creating a friendly environment for practice. Whether for travel, study, or career advancement, Langify makes language learning fun and personalized.",
-    "size": 85,
-    "reviews": 5300,
-    "ratingAvg": 4.4,
-    "downloads": 1250000,
+    "id": 7,
+    "image": "https://i.postimg.cc/v8kPQDng/Recipe-Box.jpg",
+    "title": "RecipeBox",
+    "companyName": "CookSmart",
+    "description": "RecipeBox is a comprehensive cooking app that brings recipes, meal plans, and culinary inspiration right to your fingertips. Discover thousands of dishes from various cuisines with step-by-step instructions, ingredient lists, and cooking tips. The app allows you to save favorites, create shopping lists, and follow interactive tutorials. Whether you're a beginner or a professional chef, RecipeBox helps you explore flavors, plan meals, and cook with confidence while connecting with a community of food enthusiasts.",
+    "size": 75,
+    "reviews": 3900,
+    "ratingAvg": 4.5,
+    "downloads": 1600000,
     "ratings": [
-      { "name": "1 star", "count": 240 },
-      { "name": "2 star", "count": 420 },
-      { "name": "3 star", "count": 960 },
-      { "name": "4 star", "count": 1760 },
-      { "name": "5 star", "count": 1920 }
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1650 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.postimg.cc/kMzjnDSV/LearnIt.jpg",
+    "title": "LearnIt",
+    "companyName": "EduSmart",
+    "description": "LearnIt is a dynamic learning platform offering interactive courses, video lessons, quizzes, and real-time feedback. Covering a variety of subjects from academics to personal development, LearnIt adapts to your pace and style. The app tracks your progress, suggests personalized learning paths, and encourages engagement through challenges and rewards. Join a vibrant learning community, discuss topics with peers, and gain knowledge anytime, anywhere. LearnIt makes education accessible, engaging, and tailored for lifelong learners.",
+    "size": 110,
+    "reviews": 4700,
+    "ratingAvg": 4.6,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2040 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.postimg.cc/sfqnV1WY/Travel-Buddy.jpg",
+    "title": "TravelBuddy",
+    "companyName": "Wanderlust Inc.",
+    "description": "TravelBuddy is your intelligent travel companion that helps plan, organize, and enrich your journeys. Discover hidden gems, book flights, hotels, and experiences in one app. With offline maps, itinerary planning, and real-time updates, TravelBuddy ensures you never miss a moment. Connect with fellow travelers, read reviews, and get personalized recommendations based on your preferences. From solo adventures to family trips, TravelBuddy makes every journey seamless, memorable, and tailored to your unique travel style.",
+    "size": 95,
+    "reviews": 3800,
+    "ratingAvg": 4.4,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1690 }
     ]
   },
   {
     "id": 10,
-    "image": "https://i.ibb.co.com/C5WNyrbt/GameHub.jpg",
-    "title": "GameHub",
-    "companyName": "PixelPlay Studios",
-    "description": "GameHub is the central hub for gamers worldwide. It aggregates game news, updates, and community discussions into one place. Track your gameplay stats across platforms, compare leaderboards, and earn rewards for completing achievements. \n\nGameHub’s social layer lets you follow streamers, chat in live forums, and join gaming communities based on interests. It integrates seamlessly with Steam, Xbox, PlayStation, and PC, syncing achievements and hours played. With GameHub, you’ll never miss a release, update, or esports event again.",
+    "image": "https://i.postimg.cc/zXhx35wH/Photo-Master.jpg",
+    "title": "PhotoMaster",
+    "companyName": "PixelLab",
+    "description": "PhotoMaster is a professional photo editing app designed for both beginners and advanced users. Transform ordinary photos into stunning visuals with powerful AI-enhanced filters, layers, blending modes, and color correction tools. The app supports RAW image formats, advanced masking, and retouching features. Share your creations instantly on social media or save them for offline use. With tutorials, presets, and creative challenges, PhotoMaster makes professional-grade photo editing accessible to everyone. Capture, edit, and showcase your art in one seamless experience.",
     "size": 150,
-    "reviews": 11000,
+    "reviews": 6200,
     "ratingAvg": 4.8,
-    "downloads": 3400000,
+    "downloads": 3200000,
     "ratings": [
-      { "name": "1 star", "count": 410 },
-      { "name": "2 star", "count": 580 },
-      { "name": "3 star", "count": 920 },
-      { "name": "4 star", "count": 2100 },
-      { "name": "5 star", "count": 6990 }
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 2970 }
     ]
   },
   {
     "id": 11,
-    "image": "https://i.ibb.co.com/F4xSwFQv/Cook-Master.jpg",
+    "image": "https://i.postimg.cc/853s2RxT/CodeHub.jpg",
+    "title": "CodeHub",
+    "companyName": "DevSmart",
+    "description": "CodeHub is an interactive coding platform that helps users learn programming languages like JavaScript, Python, Java, C++, and more. With hands-on coding exercises, quizzes, and real-time feedback, CodeHub makes learning to code engaging and practical. Users can follow structured courses, build projects, and track their progress. The app also includes a community forum, coding challenges, and personalized learning paths to help beginners and intermediate programmers improve their skills efficiently.",
+    "size": 120,
+    "reviews": 5200,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1400 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.postimg.cc/15Fv4P0r/Music-Flow.jpg",
+    "title": "MusicFlow",
+    "companyName": "SoundWave",
+    "description": "MusicFlow is your ultimate music companion, offering millions of tracks, playlists, and curated mixes across genres. The app learns your preferences with an intelligent recommendation engine and helps you discover new artists every day. Enjoy high-quality audio streaming, offline downloads, and seamless playlist management. With personalized radio stations, mood-based playlists, and live concert updates, MusicFlow transforms your listening experience into a personalized, interactive journey. Whether you’re a casual listener or a music enthusiast, MusicFlow keeps the beat going wherever you go.",
+    "size": 120,
+    "reviews": 5400,
+    "ratingAvg": 4.7,
+    "downloads": 2500000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2750 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.postimg.cc/XqCX4Z0Q/Book-Space.jpg",
+    "title": "BookSpace",
+    "companyName": "Readify",
+    "description": "BookSpace brings your personal library to life with eBooks, audiobooks, and curated reading lists. Its AI engine learns your preferences and recommends stories across fiction, non-fiction, and academic genres. You can switch seamlessly between reading and listening, bookmark quotes, and highlight notes for later. The app offers dark mode, offline reading, and sync across devices. With community reviews, author interviews, and reading challenges, BookSpace transforms reading into an interactive journey. Perfect for bookworms, students, and lifelong learners alike.",
+    "size": 90,
+    "reviews": 7200,
+    "ratingAvg": 4.6,
+    "downloads": 1950000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3690 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.postimg.cc/FzL1NfQB/Cook-Master.jpg",
     "title": "CookMaster",
     "companyName": "ChefTech",
-    "description": "CookMaster makes cooking exciting and effortless by giving you access to thousands of chef-approved recipes. Each recipe includes step-by-step guidance, voice narration, and nutritional breakdowns. You can filter meals by ingredients, diet type, or cooking time. \n\nThe built-in grocery planner automatically organizes shopping lists, while meal scheduling ensures balanced weekly menus. CookMaster even features AI-driven substitutions, helping you improvise when ingredients are missing. Whether you’re learning to cook or refining culinary skills, CookMaster turns your kitchen into a creative lab.",
+    "description": "CookMaster makes cooking exciting and effortless by giving you access to thousands of chef-approved recipes. Each recipe includes step-by-step guidance, voice narration, and nutritional breakdowns. You can filter meals by ingredients, diet type, or cooking time. The built-in grocery planner automatically organizes shopping lists, while meal scheduling ensures balanced weekly menus. CookMaster even features AI-driven substitutions, helping you improvise when ingredients are missing. Whether you’re learning to cook or refining culinary skills, CookMaster turns your kitchen into a creative lab.",
     "size": 65,
     "reviews": 3900,
     "ratingAvg": 4.5,
@@ -198,21 +252,183 @@
     ]
   },
   {
-    "id": 12,
-    "image": "https://i.ibb.co.com/zTZgqQkc/Book-Space.jpg",
-    "title": "BookSpace",
-    "companyName": "Readify",
-    "description": "BookSpace brings your personal library to life with eBooks, audiobooks, and curated reading lists. Its AI engine learns your preferences and recommends stories across fiction, non-fiction, and academic genres. You can switch seamlessly between reading and listening, bookmark quotes, and highlight notes for later. \n\nThe app offers dark mode, offline reading, and sync across devices. With community reviews, author interviews, and reading challenges, BookSpace transforms reading into an interactive journey. Perfect for bookworms, students, and lifelong learners alike.",
-    "size": 90,
-    "reviews": 7200,
+    "id": 15,
+    "image": "https://i.postimg.cc/D0XmnWK1/GameHub.jpg",
+    "title": "GameHub",
+    "companyName": "PixelPlay Studios",
+    "description": "GameHub is the central hub for gamers worldwide. It aggregates game news, updates, and community discussions into one place. Track your gameplay stats across platforms, compare leaderboards, and earn rewards for completing achievements. GameHub’s social layer lets you follow streamers, chat in live forums, and join gaming communities based on interests. It integrates seamlessly with Steam, Xbox, PlayStation, and PC, syncing achievements and hours played. With GameHub, you’ll never miss a release, update, or esports event again.",
+    "size": 150,
+    "reviews": 11000,
+    "ratingAvg": 4.8,
+    "downloads": 3400000,
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 580 },
+      { "name": "3 star", "count": 920 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 6990 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.postimg.cc/4y9nsKT9/Langify.jpg",
+    "title": "Langify",
+    "companyName": "Polyglot Apps",
+    "description": "Langify transforms the way you learn languages by blending AI lessons, real-time pronunciation feedback, and gamified progress tracking. Each module adapts to your skill level, focusing on vocabulary, grammar, and conversation. Interactive challenges and daily goals keep learners engaged and motivated. It features dialogue simulations with native accents, culture notes, and offline lessons for on-the-go learning. The app also connects you with a global community of learners and native speakers, creating a friendly environment for practice. Whether for travel, study, or career advancement, Langify makes language learning fun and personalized.",
+    "size": 85,
+    "reviews": 5300,
+    "ratingAvg": 4.4,
+    "downloads": 1250000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 960 },
+      { "name": "4 star", "count": 1760 },
+      { "name": "5 star", "count": 1920 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://i.postimg.cc/FzL1NfQ7/StudyHub.jpg",
+    "title": "StudyHub",
+    "companyName": "Eduverse",
+    "description": "StudyHub is designed for learners who value structure, collaboration, and adaptive learning. It combines note-taking, flashcards, and quiz modules into a single workspace. With AI-powered summaries and spaced repetition, StudyHub helps you retain information more efficiently. You can create study groups, share resources, and track performance metrics together. It supports handwritten notes, cloud sync, and offline access for studying anywhere. Integrated task lists and goal reminders ensure you never miss a deadline. StudyHub adapts to every academic level, from high school revision to university research, making it a one-stop platform for mastering any subject.",
+    "size": 70,
+    "reviews": 6400,
     "ratingAvg": 4.6,
+    "downloads": 1450000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 360 },
+      { "name": "3 star", "count": 820 },
+      { "name": "4 star", "count": 1840 },
+      { "name": "5 star", "count": 3180 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://i.postimg.cc/BbKt48Gt/Finance-Guru.jpg",
+    "title": "Finance Guru",
+    "companyName": "SmartMoney Apps",
+    "description": "Finance Guru empowers users to take full control of their finances through smart automation and visual clarity. The app connects securely with your bank accounts, categorizes spending in real-time, and offers intelligent budget suggestions. It helps you discover spending leaks, optimize subscriptions, and set achievable savings goals. Through interactive charts and weekly summaries, you’ll get a clear picture of where your money goes. Finance Guru also provides credit score tracking, bill reminders, and tax estimation — turning complex financial management into an easy daily habit. For small business owners, the app even includes invoice tracking and simple accounting tools, all within one dashboard.",
+    "size": 55,
+    "reviews": 7800,
+    "ratingAvg": 4.5,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 470 },
+      { "name": "3 star", "count": 960 },
+      { "name": "4 star", "count": 2040 },
+      { "name": "5 star", "count": 4020 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://i.postimg.cc/QtPV2Qv1/Music-Mate.jpg",
+    "title": "MusicMate",
+    "companyName": "WaveSound Studios",
+    "description": "MusicMate revolutionizes how you listen to music by learning your taste and creating playlists that evolve with your mood. The app analyzes your listening patterns, activity level, and even time of day to recommend tracks you’ll love. It offers a massive catalog across all genres, from indie gems to chart-toppers, all delivered in high-fidelity sound quality. The interface blends minimalism with visual rhythm — animated covers, synchronized lyrics, and smooth transitions give your listening a cinematic experience. Offline mode, social sharing, and collaborative playlists make it a great choice for solo sessions or group hangouts. MusicMate’s adaptive sound engine ensures that every note sounds crisp, whether you’re using wired headphones or wireless buds.",
+    "size": 120,
+    "reviews": 10200,
+    "ratingAvg": 4.7,
+    "downloads": 3200000,
+    "ratings": [
+      { "name": "1 star", "count": 380 },
+      { "name": "2 star", "count": 520 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 2280 },
+      { "name": "5 star", "count": 6140 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://i.postimg.cc/ncm3MZKv/FitTrack.jpg",
+    "title": "FitTrack",
+    "companyName": "HealthSync Co.",
+    "description": "FitTrack is more than just a fitness tracker — it’s your personal health assistant. Using AI insights, it records steps, calories, heart rate, and sleep cycles, presenting them through intuitive visuals that help you understand your body better. It also offers daily workout recommendations based on your current fitness level and recovery status. Each suggestion adapts over time, helping you avoid burnout while staying consistent with your goals. FitTrack’s integrated nutrition tracker lets you log meals and receive smart suggestions to meet calorie or macro targets. Its progress dashboard provides long-term trends and weekly achievements, helping you celebrate milestones and build motivation. Designed for fitness enthusiasts and beginners alike, FitTrack syncs seamlessly with wearables like Fitbit, Apple Watch, and Google Fit.",
+    "size": 80,
+    "reviews": 5600,
+    "ratingAvg": 4.4,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 460 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 2020 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://i.postimg.cc/LX7hctG1/Photo-Genius.jpg",
+    "title": "PhotoGenius",
+    "companyName": "PixelCraft",
+    "description": "PhotoGenius turns your photos into professional-grade artworks with minimal effort. It offers AI-powered editing, intelligent filters, layering, and advanced color grading. The app recognizes objects, people, and scenery, suggesting optimal enhancements and corrections. Its interactive tutorials guide users through retouching, masking, and compositing techniques. Share creations instantly or collaborate with friends on projects. PhotoGenius caters to hobbyists and professionals alike, transforming the creative workflow into an intuitive, accessible, and fun experience. The app’s real-time previews ensure that your edits are precise and visually striking, making every photo gallery-worthy.",
+    "size": 140,
+    "reviews": 8300,
+    "ratingAvg": 4.8,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 540 },
+      { "name": "3 star", "count": 920 },
+      { "name": "4 star", "count": 2060 },
+      { "name": "5 star", "count": 3060 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://i.postimg.cc/4dMnD6jy/Travel-Mate.jpg",
+    "title": "TravelMate",
+    "companyName": "GlobeTrek",
+    "description": "TravelMate is your pocket travel assistant. Plan trips, track itineraries, book flights and accommodations, and get AI recommendations for local attractions. Offline maps, currency converters, and language tools make exploring hassle-free. TravelMate’s social features allow sharing tips, itineraries, and experiences with friends or global travelers. With personalized suggestions, safety alerts, and community-driven insights, TravelMate helps travelers make smarter decisions and enjoy more enriching adventures. Its easy-to-use interface, interactive maps, and real-time notifications make it a must-have for frequent travelers or weekend explorers.",
+    "size": 95,
+    "reviews": 6100,
+    "ratingAvg": 4.5,
     "downloads": 1950000,
     "ratings": [
-      { "name": "1 star", "count": 320 },
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 860 },
+      { "name": "4 star", "count": 1760 },
+      { "name": "5 star", "count": 1900 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://i.postimg.cc/d1XDb2gY/News-Daily.jpg",
+    "title": "NewsDaily",
+    "companyName": "InfoPulse",
+    "description": "NewsDaily keeps you informed with breaking news, investigative journalism, and curated stories from around the world. Customize your feed based on topics, regions, and trusted sources. Interactive multimedia — including videos, infographics, and podcasts — enriches your reading experience. The app sends timely alerts, supports offline reading, and allows sharing articles across social platforms. Engage with community discussions, fact-checking tools, and daily summaries to stay knowledgeable and critical. NewsDaily ensures you receive trustworthy, comprehensive, and up-to-date information in an intuitive, user-friendly interface.",
+    "size": 85,
+    "reviews": 6700,
+    "ratingAvg": 4.6,
+    "downloads": 1750000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 840 },
+      { "name": "4 star", "count": 1680 },
+      { "name": "5 star", "count": 2820 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://i.postimg.cc/HxKjqwFC/FitLife.jpg",
+    "title": "FitLife",
+    "companyName": "WellnessCo",
+    "description": "FitLife is a holistic health app combining fitness tracking, nutrition guidance, mindfulness exercises, and personalized coaching. Monitor your daily activity, set wellness goals, and track progress over time. The app offers interactive workouts, meal planning, meditation sessions, and AI-driven insights that adapt to your lifestyle. Social challenges, leaderboards, and community support provide motivation and engagement. FitLife empowers users to cultivate healthy habits, balance physical and mental wellbeing, and achieve long-term wellness. Ideal for beginners or fitness enthusiasts, FitLife provides actionable insights for a healthier, more energized life.",
+    "size": 90,
+    "reviews": 7100,
+    "ratingAvg": 4.7,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 280 },
       { "name": "2 star", "count": 410 },
-      { "name": "3 star", "count": 780 },
-      { "name": "4 star", "count": 2000 },
-      { "name": "5 star", "count": 3690 }
+      { "name": "3 star", "count": 820 },
+      { "name": "4 star", "count": 1780 },
+      { "name": "5 star", "count": 2830 }
     ]
   }
 ]

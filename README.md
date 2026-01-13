@@ -25,3 +25,7 @@ AppVerse is a modern web application that allows users to explore, install, and 
 - Optional: Libraries for UI components (daisyUI, React Icon, millify, React Hot Toast)
 
 Live Link: https://app-verse-byakio.netlify.app/
+
+**Homepage:**
+
+<img src="https://i.ibb.co.com/MxRVk3TW/payoo.png" alt="The Book Haven" style="width:100%;" />

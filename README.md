@@ -28,4 +28,4 @@ Live Link: https://app-verse-byakio.netlify.app/
 
 **Homepage:**
 
-<img src="https://i.ibb.co.com/MxRVk3TW/payoo.png" alt="The Book Haven" style="width:100%;" />
+<img src="https://i.ibb.co.com/MxRVk3TW/payoo.png" alt="The Book Haven" style="width:50% margin:auto;" />
